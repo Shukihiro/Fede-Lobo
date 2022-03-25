@@ -75,7 +75,7 @@ a{
   margin: 10px;
   /* padding: 15px 5%; */
   height: 60vh;
-  background-image: url(./imagenes/_DSC6897.jpg);
+  background-image: url(imagenes/_DSC6897.jpg);
   background-size: cover;
   background-position: center;
   border-radius: 1em;
@@ -118,6 +118,17 @@ a{
   padding: .5em 2em;
 }
 
+.title__gacetilla{
+  color: var(--gris);
+  letter-spacing: 3px;
+  padding: 1em;
+}
+
+.h4__text{
+  text-align: center;
+  color: var(--gris);
+  font-style: italic;
+}
 /* fin gacetilla */
 
 
